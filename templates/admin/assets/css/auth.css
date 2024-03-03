@@ -1,0 +1,136 @@
+
+.error{
+    color: red;
+    font-size: 90%;
+    font-style: italic;
+}
+.profile{
+    flex-grow: 1;
+    text-align: right;
+}
+.navbar-nav{
+    flex-grow: 1;
+}
+.profile .dropdown-menu{
+    right: 0 !important;
+    left: auto;
+}
+
+.bg-image-vertical {
+    position: relative;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: auto 100%;
+    }
+    
+    @media (min-width: 1025px) {
+    .h-custom-2 {
+    height: 100%;
+    }
+    }
+
+.login {
+    /* margin-top: 40px; */
+    padding: 30px 30px;
+    height: auto;
+    width: 400px;
+    border: 1px solid #b2b1b1;
+    background: #fff;
+    border-radius: 15px;
+    box-shadow: 0 0 10px;
+}
+
+
+
+.login .title {
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+.login input {
+    height: 45px;
+    border-radius: 14px;
+}
+
+.login label {
+    font-size: 15px;
+    font-family: "Poppins", sans-serif;
+}
+
+.login button {
+    margin-top: 20px;
+    height: 45px;
+    border-radius: 14px;
+}
+
+.forgot {
+    margin-top: 40px;
+    padding: 30px 30px;
+    height: auto;
+    width: 400px;
+    border: 1px solid #ccc;
+    background: #fff;
+    border-radius: 15px;
+    box-shadow: 0 0 10pX;
+}
+
+.forgot .title {
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+.forgot input {
+    height: 45px;
+    border-radius: 14px;
+}
+
+.forgot button {
+    margin-top: 20px;
+    height: 45px;
+    border-radius: 14px;
+}
+
+.forgot label {
+    font-size: 15px;
+    font-family: "Poppins", sans-serif;
+}
+
+
+.reset {
+    margin-top: 40px;
+    padding: 30px 30px;
+    height: 440px;
+    width: 400px;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+    box-shadow: 0 0 10pX;
+}
+
+
+.reset .title {
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+.reset input {
+    height: 45px;
+    border-radius: 14px;
+}
+
+
+.reset button {
+    margin-top: 20px;
+    height: 45px;
+    border-radius: 14px;
+}
+
+.reset label {
+    font-size: 15px;
+    font-family: "Poppins", sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+

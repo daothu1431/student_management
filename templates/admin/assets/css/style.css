@@ -1,0 +1,30 @@
+
+
+.error {
+    color: red;
+    font-size: 95%;
+}
+
+table tr:nth-child(even) {
+    background-color: #f1eeee;
+}
+
+.video-dashboard {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+}
+
+
+a {
+    text-decoration: none;
+}
+
+.btn-row {
+    display: flex;
+}
+
+
+table thead {
+    background-color: #dbd8d8;
+}
